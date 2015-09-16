@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:35:32.509253
+#+TITLE: 玉清胎元內養真經
+#+PROPERTY: DZID  DZ0063
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—29 一卷 洞真部本文類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
